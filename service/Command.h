@@ -1,6 +1,7 @@
 // Command.h
 #pragma once
 #include "Service.h"
+#include <memory>
 
 class Command {
 public:

@@ -3,6 +3,7 @@
 
 #include "Repository.h"
 #include"AdoptionList.h"
+#include <memory>
 class UserService {
 private:
     Repository& repo;

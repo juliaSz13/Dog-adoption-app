@@ -5,6 +5,7 @@
 #include "Dog.h"
 
 #include <istream>
+#include <ostream>
 
 
 Dog::Dog(const std::string &breed, const std::string &name, int age, const std::string &photo_link) {

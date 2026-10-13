@@ -1,0 +1,10 @@
+Labrador,Rex,3,https://images.ctfassets.net/i3mh0tjpjx7v/srXUlu5v9MvSg2cvRdxV6/7b573d591a3e258fc59599e7cd0d628d/noemi-macavei-katocz-c7bUIRBqapA-unsplash.jpg
+Poodle,Max,5,https://ask.woodgreen.org.uk/media/pages/images/99f12e906e-1737559438/miniature-poodle-900x900-crop.jpg
+Bulldog,Buddy,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewxrOhGw4Q0TDWD68548o6PCt9XlpPiJGLA&s
+Beagle,Charlie,4,https://petto.com.pl/cdn/shop/articles/SEOon_Beagle_d00b048e-5fb6-44b5-87ab-0bb697a39673.png?v=1747394114
+Husky,Luna,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOnvrYMZLuRlTWba0jHnp9tk4AqkxpWZZiIQ&s
+Poodle,Bella,6,https://cdn.britannica.com/44/233244-050-A65D4571/Chihuahua-dog.jpg
+Rottweiler,Cooper,3,https://headsupfortails.com/cdn/shop/articles/Rottweiler_Dog_Breed_Guide-_Temperament_Appearance_Care_History.jpg?v=1758005579
+Poodle,Daisy,7,https://www.burgesspetcare.com/wp-content/uploads/2024/09/shutterstock_2423158743.jpg
+Boxer,Milo,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7XAzcD7boqnGBqFqIula-lQMmPvhY7W1Iw&s
+Pomeranian,Lola,4,https://www.akc.org/wp-content/uploads/2017/11/Pomeranian-On-White-01.jpg

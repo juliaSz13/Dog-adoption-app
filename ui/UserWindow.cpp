@@ -3,6 +3,7 @@
 #include <QGroupBox>
 #include <QHeaderView>
 #include"AdoptionModelTable.h"
+#include <cstdlib>
 
 UserWindow::UserWindow(UserService& us, QWidget* parent)
     : QWidget(parent), userService(us)

@@ -6,6 +6,7 @@
 #define A4_5_JULIASZ13_DOG_H
 
 #include<string>
+#include <iosfwd>
 class Dog
 {
 private:

@@ -1,0 +1,15 @@
+# Build folders
+build/
+cmake-build-*/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Files created when the app or the tests run
+adoption_list.csv
+adoption_list.html
+test.txt
+test_adoption.csv
+test_adoption.html

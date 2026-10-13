@@ -4,6 +4,7 @@
 
 #include "Repository.h"
 #include <fstream>
+#include <algorithm>
 
 Repository::Repository(const std::string &filename):filename(filename) {
     loadFormFile();

@@ -4,6 +4,8 @@
 
 #include "AdoptionList.h"
 #include<fstream>
+#include <algorithm>
+#include <cstdlib>
  AdoptionList::AdoptionList( const std:: string & filename):filename(filename) {
  }
 

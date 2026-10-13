@@ -2,6 +2,7 @@
 #include <cassert>
 #include <stdexcept>
 #include <iostream>
+#include <cstdio>
 
 void tests::testDog() {
     Dog d("Labrador", "Rex", 3, "http://example.com");

@@ -1,5 +1,7 @@
 #include "UserService.h"
 #include<fstream>
+#include <algorithm>
+#include <iterator>
 UserService::UserService(Repository& repo,const std::string & typefile,const std::string& filename) : repo(repo) {
     if (typefile == "CSV")
         adoptionList = std::make_unique<CSVAdoptionList>(filename);

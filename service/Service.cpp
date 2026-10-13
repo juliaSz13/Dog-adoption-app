@@ -5,6 +5,7 @@
 #include "Service.h"
 #include "Exceptions.h"
 #include "Validator.h"
+#include <algorithm>
 
  Service::Service(Repository& repo) :repo(repo){
  }
